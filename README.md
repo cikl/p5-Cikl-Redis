@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/cikl/p5-Cikl-Redis.png?branch=master)](https://travis-ci.org/cikl/p5-Cikl-Redis)
 # NAME
 
 Cikl::Redis - It's new $module

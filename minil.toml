@@ -1,3 +1,6 @@
 name = "Cikl-Redis"
 license = "lgpl_3_0"
-# badges = ["travis"]
+badges = ["travis"]
+no_github_issues = true
+
+[release]
